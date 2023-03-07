@@ -4,6 +4,9 @@ Ajoyofest Afrobeat Festival
 
 
 ![ajoyofest-logo](https://user-images.githubusercontent.com/11032326/223556568-41bb8562-14a3-43c1-9749-bd27965853ea.png)
-![ajoyo-home](https://user-images.githubusercontent.com/11032326/223558689-6e745fd4-8086-4c1f-a733-9e16e49d9ab1.PNG)
-![ajoyo-order](https://user-images.githubusercontent.com/11032326/223558692-aad800ee-e31b-40ef-8cd4-4b267f2f48ae.PNG)
-![ajoyo-confirm](https://user-images.githubusercontent.com/11032326/223558694-bdb28f67-54f7-45d7-bbf4-3dbf4e9270c8.PNG)
+
+
+
+![ajoyo-confirm](https://user-images.githubusercontent.com/11032326/223558994-07bed4f6-f22c-43cf-beda-7f665b1635e1.PNG)
+![ajoyo-home](https://user-images.githubusercontent.com/11032326/223558996-b34209c5-fe6a-4ce8-a214-14e74bbeef54.PNG)
+![ajoyo-order](https://user-images.githubusercontent.com/11032326/223558998-000b00d2-84a8-4b53-9ce8-4b9c17d604cb.PNG)
